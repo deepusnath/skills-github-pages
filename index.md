@@ -1,6 +1,6 @@
-title: "Welcome to my blog to learn GitHub pages"
+#Welcome to my blog to learn GitHub pages
 
-How to Use GitHub Pages and Jekyll to get started with your own — entirely free
+##How to Use GitHub Pages and Jekyll to get started with your own — entirely free
 
 Building your own website is rewarding on several levels. There’s the opportunity to showcase your work to friends, family, and potential employers, the pride in making something, and the freedom to shape a (very small) part of the web to your tastes.
 
