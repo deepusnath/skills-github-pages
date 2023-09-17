@@ -1,4 +1,4 @@
-title: Welcome to my blog to learn GitHub pages
+title: "Welcome to my blog to learn GitHub pages"
 
 How to Use GitHub Pages and Jekyll to get started with your own — entirely free
 
